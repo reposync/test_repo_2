@@ -1,4 +1,3 @@
-user: 1, date: Sun Jun 05 2016 16:46:11 GMT-0700 (PDT)
 user: 1, date: Sun Jun 05 2016 12:54:22 GMT-0700 (PDT)
 user: 1, date: Sun Jun 05 2016 08:50:11 GMT-0700 (PDT)
 user: 1, date: Sun Jun 05 2016 03:31:09 GMT-0700 (PDT)
